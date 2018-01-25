@@ -1,3 +1,14 @@
+## Hello
+
+I don't know what I'm doing here... I would like to save the readme text.. for reference... and I'm not sure what to populate on here right now.
+
+Also, a mystery to me, is making buttons and additional pages...
+
+Thats it.
+
+Thanks for reading,
+Ian
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/clayfanatic/Test-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
